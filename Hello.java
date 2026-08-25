@@ -4,3 +4,7 @@ public class Hello{
         
     
 }
+public void m2(){
+    
+}
+}
